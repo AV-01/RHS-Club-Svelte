@@ -4,6 +4,7 @@
     export let slogan;
     export let id;
     export let timeUpdate;
+    
   </script>
   
   <div class="bg-white shadow-lg rounded-lg overflow-hidden flex flex-col">
